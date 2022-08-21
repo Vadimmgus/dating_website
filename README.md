@@ -1,8 +1,8 @@
-# Web-site for meeting
+# Web-site for dating
 
 ## Main task:
 
-   Create backend for meeting web-site.
+   Create backend for dating web-site.
 
 ### Tasks:
 
